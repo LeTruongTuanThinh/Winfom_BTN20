@@ -1,0 +1,67 @@
+C:\Users\duykh\OneDrive\Máy tính\QuanLyCuaHangBanSach\bin\Debug\QuanLyCuaHangBanSach.exe.config
+C:\Users\duykh\OneDrive\Máy tính\QuanLyCuaHangBanSach\bin\Debug\QuanLyCuaHangBanSach.exe
+C:\Users\duykh\OneDrive\Máy tính\QuanLyCuaHangBanSach\bin\Debug\QuanLyCuaHangBanSach.pdb
+C:\Users\duykh\OneDrive\Máy tính\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.csproj.AssemblyReference.cache
+C:\Users\duykh\OneDrive\Máy tính\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.Form1.resources
+C:\Users\duykh\OneDrive\Máy tính\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.Properties.Resources.resources
+C:\Users\duykh\OneDrive\Máy tính\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.csproj.GenerateResource.cache
+C:\Users\duykh\OneDrive\Máy tính\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.csproj.CoreCompileInputs.cache
+C:\Users\duykh\OneDrive\Máy tính\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.exe
+C:\Users\duykh\OneDrive\Máy tính\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.pdb
+S:\thinhltt\QuanLyCuaHangBanSach\bin\Debug\QuanLyCuaHangBanSach.exe.config
+S:\thinhltt\QuanLyCuaHangBanSach\bin\Debug\QuanLyCuaHangBanSach.exe
+S:\thinhltt\QuanLyCuaHangBanSach\bin\Debug\QuanLyCuaHangBanSach.pdb
+S:\thinhltt\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.csprojAssemblyReference.cache
+S:\thinhltt\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.FrmQuanLyBanSach.resources
+S:\thinhltt\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.Properties.Resources.resources
+S:\thinhltt\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.csproj.GenerateResource.cache
+S:\thinhltt\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.csproj.CoreCompileInputs.cache
+S:\thinhltt\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.exe
+S:\thinhltt\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.pdb
+S:\thinhltt\QuanLyCuaHangBanSach\bin\Debug\EntityFramework.dll
+S:\thinhltt\QuanLyCuaHangBanSach\bin\Debug\EntityFramework.SqlServer.dll
+S:\thinhltt\QuanLyCuaHangBanSach\bin\Debug\System.Data.SQLite.dll
+S:\thinhltt\QuanLyCuaHangBanSach\bin\Debug\System.Data.SQLite.EF6.dll
+S:\thinhltt\QuanLyCuaHangBanSach\bin\Debug\System.Data.SQLite.Linq.dll
+S:\thinhltt\QuanLyCuaHangBanSach\bin\Debug\EntityFramework.xml
+S:\thinhltt\QuanLyCuaHangBanSach\bin\Debug\EntityFramework.SqlServer.xml
+S:\thinhltt\QuanLyCuaHangBanSach\bin\Debug\System.Data.SQLite.xml
+S:\thinhltt\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.csproj.CopyComplete
+D:\bigDowload\model\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.csproj.AssemblyReference.cache
+D:\bigDowload\model\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.FrmQuanLyBanSach.resources
+D:\bigDowload\model\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.Properties.Resources.resources
+D:\bigDowload\model\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.csproj.GenerateResource.cache
+D:\bigDowload\model\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.csproj.CoreCompileInputs.cache
+D:\bigDowload\model\QuanLyCuaHangBanSach\bin\Debug\QuanLyCuaHangBanSach.exe.config
+D:\bigDowload\model\QuanLyCuaHangBanSach\bin\Debug\QuanLyCuaHangBanSach.exe
+D:\bigDowload\model\QuanLyCuaHangBanSach\bin\Debug\QuanLyCuaHangBanSach.pdb
+D:\bigDowload\model\QuanLyCuaHangBanSach\bin\Debug\EntityFramework.dll
+D:\bigDowload\model\QuanLyCuaHangBanSach\bin\Debug\EntityFramework.SqlServer.dll
+D:\bigDowload\model\QuanLyCuaHangBanSach\bin\Debug\System.Data.SQLite.dll
+D:\bigDowload\model\QuanLyCuaHangBanSach\bin\Debug\System.Data.SQLite.EF6.dll
+D:\bigDowload\model\QuanLyCuaHangBanSach\bin\Debug\System.Data.SQLite.Linq.dll
+D:\bigDowload\model\QuanLyCuaHangBanSach\bin\Debug\EntityFramework.xml
+D:\bigDowload\model\QuanLyCuaHangBanSach\bin\Debug\EntityFramework.SqlServer.xml
+D:\bigDowload\model\QuanLyCuaHangBanSach\bin\Debug\System.Data.SQLite.xml
+D:\bigDowload\model\QuanLyCuaHangBanSach\obj\Debug\QuanLyCu.5D171C55.Up2Date
+D:\bigDowload\model\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.exe
+D:\bigDowload\model\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.pdb
+C:\Users\Administrator\Desktop\QuanLyCuaHangBanSach-final\bin\Debug\QuanLyCuaHangBanSach.exe.config
+C:\Users\Administrator\Desktop\QuanLyCuaHangBanSach-final\bin\Debug\QuanLyCuaHangBanSach.exe
+C:\Users\Administrator\Desktop\QuanLyCuaHangBanSach-final\bin\Debug\QuanLyCuaHangBanSach.pdb
+C:\Users\Administrator\Desktop\QuanLyCuaHangBanSach-final\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\QuanLyCuaHangBanSach-final\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\QuanLyCuaHangBanSach-final\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\QuanLyCuaHangBanSach-final\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Administrator\Desktop\QuanLyCuaHangBanSach-final\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Administrator\Desktop\QuanLyCuaHangBanSach-final\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\QuanLyCuaHangBanSach-final\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\QuanLyCuaHangBanSach-final\bin\Debug\System.Data.SQLite.xml
+C:\Users\Administrator\Desktop\QuanLyCuaHangBanSach-final\obj\Debug\QuanLyCuaHangBanSach.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\QuanLyCuaHangBanSach-final\obj\Debug\QuanLyCuaHangBanSach.FrmQuanLyBanSach.resources
+C:\Users\Administrator\Desktop\QuanLyCuaHangBanSach-final\obj\Debug\QuanLyCuaHangBanSach.Properties.Resources.resources
+C:\Users\Administrator\Desktop\QuanLyCuaHangBanSach-final\obj\Debug\QuanLyCuaHangBanSach.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\QuanLyCuaHangBanSach-final\obj\Debug\QuanLyCuaHangBanSach.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\QuanLyCuaHangBanSach-final\obj\Debug\QuanLyCu.5D171C55.Up2Date
+C:\Users\Administrator\Desktop\QuanLyCuaHangBanSach-final\obj\Debug\QuanLyCuaHangBanSach.exe
+C:\Users\Administrator\Desktop\QuanLyCuaHangBanSach-final\obj\Debug\QuanLyCuaHangBanSach.pdb
